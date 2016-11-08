@@ -7,3 +7,15 @@ h1 {
 h2 {
     color:red;
 }
+p1 {
+    position:absolute;
+    color: red;
+    text-align:center;
+    left:35%;
+    font-size:18px;
+}
+.link {
+    font-size: 23px;
+    color: red;
+    text-decoration: none;
+}
